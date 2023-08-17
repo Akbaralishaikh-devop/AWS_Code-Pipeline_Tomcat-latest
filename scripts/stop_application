@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sudo /home/ec2-user/webserver/apache-tomcat-9.0.79/bin/shutdown.sh
