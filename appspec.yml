@@ -5,6 +5,6 @@ hooks:
     - location: scripts/stop_application
       timeout: 300  
   BeforeInstall:
-    - location: install.sh
+    - location: scripts/install
       timeout: 300
       runas: root
